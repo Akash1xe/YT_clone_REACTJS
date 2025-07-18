@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+
+
 # testing
 /coverage
 
@@ -142,3 +144,6 @@ dist
 .pnp.*
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
+
+# constants folder containing API keys
+/src/constants
